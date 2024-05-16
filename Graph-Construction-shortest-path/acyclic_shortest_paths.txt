@@ -1,0 +1,36 @@
+Path 1: Q9NQ76 -> O14757 -> Q8IVT5 -> Q8N5P1
+Total Path Score: 1.265035
+Interaction Weight (Q9NQ76 -> O14757): 0.75
+Interaction Weight (O14757 -> Q8IVT5): 0.166231
+Interaction Weight (Q8IVT5 -> Q8N5P1): 0.348804
+
+Path 2: Q9NQ76 -> P62993 -> P62241 -> Q8N5P1
+Total Path Score: 1.8111329999999999
+Interaction Weight (Q9NQ76 -> P62993): 0.75
+Interaction Weight (P62993 -> P62241): 0.75
+Interaction Weight (P62241 -> Q8N5P1): 0.311133
+
+Path 3: Q9NQ76 -> P00519 -> Q13535 -> Q8N5P1
+Total Path Score: 1.973922
+Interaction Weight (Q9NQ76 -> P00519): 0.75
+Interaction Weight (P00519 -> Q13535): 0.75
+Interaction Weight (Q13535 -> Q8N5P1): 0.473922
+
+Path 4: Q9NQ76 -> P00519 -> Q13315 -> Q8N5P1
+Total Path Score: 1.973922
+Interaction Weight (Q9NQ76 -> P00519): 0.75
+Interaction Weight (P00519 -> Q13315): 0.75
+Interaction Weight (Q13315 -> Q8N5P1): 0.473922
+
+Path 5: Q9NQ76 -> P12931 -> Q13435 -> Q8N5P1
+Total Path Score: 1.7355070000000001
+Interaction Weight (Q9NQ76 -> P12931): 0.75
+Interaction Weight (P12931 -> Q13435): 0.674374
+Interaction Weight (Q13435 -> Q8N5P1): 0.311133
+
+Path 6: Q9NQ76 -> P06241 -> Q9H7E9 -> Q8N5P1
+Total Path Score: 1.341552
+Interaction Weight (Q9NQ76 -> P06241): 0.75
+Interaction Weight (P06241 -> Q9H7E9): 0.280419
+Interaction Weight (Q9H7E9 -> Q8N5P1): 0.311133
+
